@@ -1,0 +1,16 @@
+{
+  "fonte": "https://raw.githubusercontent.com/williamorim/brasileirao/main/data-raw/csv/matches.csv",
+  "repositorio": "https://github.com/williamorim/brasileirao",
+  "processado_em_utc": "2026-10-19T17:15:23.544825+00:00",
+  "sha256_bruto": "914c494c6f07d07ad910dffafe1965f65963a91b2305fa40d912153a2dfad21d",
+  "temporadas": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "partidas": 1900,
+  "clubes": 29,
+  "observacao": "Fonte comunitária; resultados não auditados contra súmulas oficiais."
+}

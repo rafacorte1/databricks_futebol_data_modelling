@@ -1,0 +1,16 @@
+{
+  "seed": 42,
+  "locale": "pt_BR",
+  "temporadas": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "clubes": 20,
+  "jogadores": 3000,
+  "partidas": 1900,
+  "eventos": 17073,
+  "natureza": "Inteiramente fictício"
+}

@@ -1,0 +1,21 @@
+clube_id,nome,cidade,uf,estadio_id
+S001,FC Alves 01,da Cruz de Goiás,BA,E001
+S002,FC Rocha 02,Pastor,PA,E002
+S003,FC Borges 03,da Conceição,PE,E003
+S004,FC Novais 04,Silva,RS,E004
+S005,FC Câmara dos Dourados 05,Abreu da Serra,RR,E005
+S006,FC da Mota Grande 06,Teixeira,MT,E006
+S007,FC Garcia 07,Fogaça,MS,E007
+S008,FC Aparecida dos Dourados 08,Garcia,AP,E008
+S009,FC Pires da Praia 09,Santos,AP,E009
+S010,FC Vargas 10,Barros de Goiás,AM,E010
+S011,FC Marques da Praia 11,Freitas,MS,E011
+S012,FC Sampaio de Minas 12,Nascimento,SC,E012
+S013,FC Martins 13,da Mata da Prata,ES,E013
+S014,FC Vargas do Norte 14,Andrade,SE,E014
+S015,FC da Mata de Minas 15,Nunes,RR,E015
+S016,FC Rezende 16,Gonçalves de Ramos,PB,E016
+S017,FC Carvalho de Goiás 17,Souza Verde,PA,E017
+S018,FC Fonseca de Goiás 18,Moraes,PR,E018
+S019,FC Camargo 19,Pires,CE,E019
+S020,FC Peixoto de Minas 20,Garcia dos Dourados,PE,E020
